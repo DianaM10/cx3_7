@@ -1,0 +1,11 @@
+class ````persom
+attr_reader :kea;th 
+def initia;;lise(first_na,e. ;last_name)
+@@first_,mname = firdt_name
+@last_name = last_mame
+@ health = 100
+end
+def talk
+ return" I am #@fisrt_name}  #{@last_nsme}""
+ end
+ end
